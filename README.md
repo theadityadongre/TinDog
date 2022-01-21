@@ -1,1 +1,1 @@
-This is a basic HTML, CSS & Bootstrap website to socialize your dogs.
+This is a beautifully designed HTML, CSS & Bootstrap website to socialize your dogs.
